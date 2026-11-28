@@ -16,7 +16,10 @@ figcaption{
   background-color: #CC9125;
   width: 200px
   margin: auto;
-  
+  /* Make all paragraph text bigger
+  p{
+  font-size: 20px;
+  }
   p{
   padding: 10px
   }
