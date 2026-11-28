@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+BE+WAL+Guides&display=swap');
+
+h1{
+  color: #85532C;
+  text-align: center;
+}
+h1{ text-shadow: 5px 5px 5px yellow;
+  }
+h3{
+  color: #634D18;
+}
+figcaption{
+  background-color: #CC9125;
+  width: 200px
+  margin: auto;
+  
+  p{
+  padding: 10px
+  }
+}
+
+body {
+  background-color: F2E6E6;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-style: bold;
+   }
+
+hr{
+  height: 2px;
+  border: none;
+  background-color: brown;
+}
+
+figure {
+  max-width: 300px; /*gives image a set width */
+  margin: auto; /*centers the image */
+  border: double:  2px;
+  }
+
+figure img {
+  max-inline-size: 100%;
+  block-size: auto;
+  }
+footer{
+  text-align: center;
+  background-color: yellow;
+  padding: 1px
+}
+footer p{
+  background-color: brown;
+}
+
+
